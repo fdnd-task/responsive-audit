@@ -12,7 +12,7 @@ Gebruike responsive tests met Polypane.
 En test handmatig met een browser op je eigen systeem.
 
 
-### Scherm groottes
+### Viewports
 Test verschillende layouts op verschillende scherm breedtes. S, M, L, XL Viewports. Breakpoints? 
 Wordt er gebruik gemaakt van Fixed, Fluid of adaptive layouts?
 
